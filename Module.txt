@@ -1,0 +1,9 @@
+﻿Name: Shortcode API
+AntiForgery: enabled
+Author: Nicholas Mayne
+Website: http://www.themayneissue.com
+Version: 0.0.1
+OrchardVersion: 1.6.0
+Description: An implementation of shortcodes for Orchard CMS
+FeatureDescription: An implementation of shortcodes for Orchard CMS.
+Category: Content
